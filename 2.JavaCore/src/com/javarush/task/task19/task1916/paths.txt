@@ -1,0 +1,2 @@
+C:\Users\sergh\IdeaProjects\JavaRushTasks\2.JavaCore\src\com\javarush\task\task19\task1916\fileOne.txt
+C:\Users\sergh\IdeaProjects\JavaRushTasks\2.JavaCore\src\com\javarush\task\task19\task1916\fileTwo.txt

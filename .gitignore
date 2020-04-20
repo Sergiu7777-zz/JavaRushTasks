@@ -14,10 +14,10 @@ target/
 *.properties
 *.jar
 
-/1.JavaSyntax/
-/2.JavaCore/
+#/1.JavaSyntax/
+#/2.JavaCore/
 #/3.JavaMultithreading/task30.task3008/
-/4.JavaCollections/
+#/4.JavaCollections/
 /5.OnlineInternship/
 /out/
 /JavaRushPlugin.properties
